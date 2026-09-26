@@ -1,0 +1,3 @@
+http://localhost:5000/api/upload
+http://localhost:5000/api/policies/search?username=John
+http://localhost:5000/api/policies/aggregate
